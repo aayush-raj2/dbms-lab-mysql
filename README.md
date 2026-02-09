@@ -1,4 +1,4 @@
-# DBMS Laboratory – MySQL
+# DBMS Laboratory – MySQL 
 
 This repository contains structured SQL scripts and documentation for the
 **Database Management Systems Laboratory (21CSC205P)**.
